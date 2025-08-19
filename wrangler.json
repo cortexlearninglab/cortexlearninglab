@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cortexlearninglab",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d832979d-2286-46bf-9839-781289ef74c9",
+      "database_name": "QUESTOES-DATABASE"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
